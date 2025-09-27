@@ -15,6 +15,8 @@ Você pergunta em **PT-BR**, e o app:
 > **Dataset alvo**: [Kaggle — Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 > Estrutura clássica: 31 colunas (`Time`, `V1`…`V28` via PCA, `Amount`, `Class`), sendo `Class` a variável alvo (0 = normal, 1 = fraude).
 
+## 🤖 Visão no Streamlit
+https://github.com/leandroavidigal/Agentes_de_AI/blob/main/Especialista%20em%20Fraude%20de%20Cartao/streamlit_agentAI.png
 ---
 
 ## 🎯 Por que especializado?
