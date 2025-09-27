@@ -19,17 +19,14 @@ Aqui você encontra projetos práticos que combinam **IA + Engenharia de Dados +
 
 ## 🗂️ Catálogo de Projetos
 
-> Abaixo alguns projetos incluídos (ou planejados). Clique para saber mais:
-
-> | Projeto                                           | Descrição                                                                                                                    | Link                                                                                                                   |
+| Projeto                                           | Descrição                                                                                                                    | Link                                                                                                                   |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Agente EDA – Especialista em Fraude de Cartão** | Explorador focado no dataset `creditcard.csv` (Kaggle): gráficos, métricas, insights em PT-BR e PDF com memória por usuário. | [Acessar projeto](https://github.com/leandroavidigal/Agentes_de_AI/tree/main/Especialista%20em%20Fraude%20de%20Cartao) |
 | **Agente GPT para Notas Fiscais**                 | Análise de notas da Transparência, extração de campos, checagens e relatórios.                                               | *em breve*                                                                                                             |
 | **Agente de Automação de Relatórios**             | Gera relatórios semanais a partir de CSVs e envia via e-mail/Slack (templates personalizáveis).                              | *em breve*                                                                                                             |
 | **Agente de Suporte Técnico**                     | Baseado em FAQs/Docs, responde em PT-BR, com memória de conversa e feedback loop.                                            | *em breve*                                                                                                             |
 
-
-> Dica: cada pasta de projeto tem seu próprio `README.md` com instruções detalhadas.
+> Cada pasta tem seu próprio `README.md` com instruções detalhadas.
 
 ## 🤝 Contribuindo
 
