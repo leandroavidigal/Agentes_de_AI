@@ -16,7 +16,8 @@ Você pergunta em **PT-BR**, e o app:
 > Estrutura clássica: 31 colunas (`Time`, `V1`…`V28` via PCA, `Amount`, `Class`), sendo `Class` a variável alvo (0 = normal, 1 = fraude).
 
 ## 🤖 Visão no Streamlit
-![Visão do app](https://raw.githubusercontent.com/leandroavidigal/Agentes_de_AI/main/Especialista%20em%20Fraude%20de%20Cartao/streamlit_agentAI.png)
+![Visão do app](https://github.com/leandroavidigal/Agentes_de_AI/blob/main/Especialista%20em%20Fraude%20de%20Cartao/streamlit_agentAI.png?raw=1)
+
 ---
 
 ## 🎯 Por que especializado?
