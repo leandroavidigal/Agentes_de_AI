@@ -1,0 +1,21 @@
+# App Web
+streamlit>=1.33,<2
+
+# Data stack
+pandas>=2.2,<3
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.14
+
+# LangChain + OpenAI
+langchain>=0.2,<0.3
+langchain-openai>=0.1.7,<0.2
+langchain-experimental>=0.0.63,<0.1
+
+# PDF (fallback leve)
+fpdf2>=2.7,<3
+
+# Utilidades
+pillow>=10.3,<12
+python-dotenv>=1.0,<2
+pydantic>=2.5,<3
